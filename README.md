@@ -12,7 +12,7 @@ A phone-to-phone **ADB and Fastboot toolkit** for Android. Connect a target phon
 
 ## Download
 
-**[⬇ Download APK](https://github.com/KSURitam/DebugBridge/releases/tag/Apk)**
+**[⬇ Download APK](https://github.com/Anshaks/DebugBridge/releases/tag/Apk)**
 
 ## Screenshots
 
