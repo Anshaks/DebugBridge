@@ -154,3 +154,6 @@ Upload `DebugBridge_Builder.ipynb` to Google Colab and press **Runtime → Run a
 - Use DebugBridge **only on devices you own or have explicit permission to work on**. Using it on someone else's device without permission may be illegal. You alone are responsible for how you use it.
 - Back up your data before flashing or erasing anything.
 - By downloading or using this app, you agree to these terms. If you do not agree, do not use it.
+
+## Developers
+**Main Developers:** KSURitam & Anshaks
